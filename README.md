@@ -1,6 +1,6 @@
-👋 Hi saya deryl
-🐍 Saya adalahnya ahli python
-😘 Akun github ini akan memberikan banyak userbot yang saya buat
+👋 Hai, akun github ini digunakan untuk kita belajar programing bersama
+🐍 Di kebanyakan repository saya menggunakan python
 
-💰 Donasi
-   Dana: 0895344219948
+📞 Jika ingin request silahkan hubungi saya
+☎️ Wa: 0895344219948
+   Tg: @derylitteam
