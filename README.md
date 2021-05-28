@@ -1,6 +1,5 @@
-👋 Hai, akun github ini digunakan untuk kita belajar programing bersama
-🐍 Di kebanyakan repository saya menggunakan python
-
-📞 Jika ingin request silahkan hubungi saya
-☎️ Wa: 0895344219948
-   Tg: @derylitteam
+[![Issues](https://img.shields.io/github/issues/ggratisan?style=for-the-badge&color=blue)](https://github.com/ggratisan)
+[![Forks](https://img.shields.io/github/forks/ggratisan?style=for-the-badge&color=blue)](https://github.com/ggratisan)
+[![Stars](https://img.shields.io/github/stars/ggratisan?style=for-the-badge&color=blue)](https://github.com/ggratisan/)
+[![Size](https://img.shields.io/github/repo-size/ggratisan?style=for-the-badge&color=blue)](https://github.com/ggratisan/botwasticker)
+[![Contributors](https://img.shields.io/github/contributors/ggratisan/?style=for-the-badge&color=blue)](https://github.com/ggratisan)
