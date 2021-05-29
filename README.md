@@ -3,7 +3,7 @@
 
 # Bio:
 
-### Lokasi: Mataram, Lombok
-### Umur: 12 tahun
-### Pendidikan sekarang: SMP
-### Kelas: 1 SMP
+#### Lokasi: Mataram, Lombok
+#### Umur: 12 tahun
+#### Pendidikan sekarang: SMP
+#### Kelas: 1 SMP
