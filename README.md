@@ -1,5 +1,7 @@
 
-[![Stars](https://img.shields.io/github/stars/ggratisan?style=for-the-badge&color=blue)](https://github.com/ggratisan/)
+[![Stars](https://img.shields.io/github/stars/ggratisan?style=for-the-badge&color=green)](https://github.com/ggratisan/)
+
+[![Follower](https://img.shields.io/github/followers/ggratisan?style=for-the-badge&color=red)](https://github.com/ggratisan/)
 
 # Bio:
 
